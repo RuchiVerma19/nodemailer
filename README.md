@@ -1,3 +1,4 @@
+Edited by Shreya
 # Nodemailer
 
 [![Nodemailer](https://raw.githubusercontent.com/nodemailer/nodemailer/master/assets/nm_logo_200x136.png)](https://nodemailer.com/about/)
